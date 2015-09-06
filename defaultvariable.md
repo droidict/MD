@@ -1,4 +1,4 @@
-# Default Variable 
+# Default Variable test
 
 Insted of declaring common variable in each post or page we can declare them as default variable in _config.yml
 
